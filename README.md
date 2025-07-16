@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/palakptl04/Assignment/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/palakptl04/Assignment/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/palakptl04/Assignment/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/palakptl04/Assignment/tree/master/0058-length-of-last-word) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/palakptl04/Assignment/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/palakptl04/Assignment/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/palakptl04/Assignment/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/palakptl04/Assignment/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/palakptl04/Assignment/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
