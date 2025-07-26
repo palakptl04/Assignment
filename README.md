@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/palakptl04/Assignment/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/palakptl04/Assignment/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/palakptl04/Assignment/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/palakptl04/Assignment/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/palakptl04/Assignment/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/palakptl04/Assignment/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/palakptl04/Assignment/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
