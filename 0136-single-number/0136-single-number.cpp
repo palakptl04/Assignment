@@ -1,19 +1,13 @@
 class Solution {
 public:
-    int singleNumber(vector<int>& nums) {
-        bool flag;
-        int n;
-        for(int i=0;i<nums.size();i++){
-            flag=false;
-            for(int j=0;j<nums.size();j++){
-                if(nums[i]==nums[j] && i!=j){
-                    flag=true;
-                }
-            }
-            if(!flag)
-                n=nums[i];
-        }
-        return n;
+    int singleNumber(vector<int>& A) {
+    int n=A.size();
+    int result = 0;
+    for (int i = 0; i < n; i++) {
+        result ^= A[i];  // XOR each element with result
+    }
+    return result;
+
     }
     
 };
