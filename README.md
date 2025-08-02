@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palakptl04/Assignment/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/palakptl04/Assignment/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/palakptl04/Assignment/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/palakptl04/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/palakptl04/Assignment/tree/master/0136-single-number) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/palakptl04/Assignment/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/palakptl04/Assignment/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/palakptl04/Assignment/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/palakptl04/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
