@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/palakptl04/Assignment/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/palakptl04/Assignment/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/palakptl04/Assignment/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/palakptl04/Assignment/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/palakptl04/Assignment/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/palakptl04/Assignment/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palakptl04/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/palakptl04/Assignment/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/palakptl04/Assignment/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
