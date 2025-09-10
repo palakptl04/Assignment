@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/palakptl04/Assignment/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/palakptl04/Assignment/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/palakptl04/Assignment/tree/master/0070-climbing-stairs) |
+| [0390-elimination-game](https://github.com/palakptl04/Assignment/tree/master/0390-elimination-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/palakptl04/Assignment/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/palakptl04/Assignment/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/palakptl04/Assignment/tree/master/0390-elimination-game) |
 ## Trie
 |  |
 | ------- |
