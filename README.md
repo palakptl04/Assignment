@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palakptl04/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/palakptl04/Assignment/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/palakptl04/Assignment/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/palakptl04/Assignment/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
