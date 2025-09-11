@@ -1,33 +1,30 @@
 class Solution {
 public:
-    int minimumTeachings(int n, vector<vector<int>>& languages,
-                         vector<vector<int>>& friendships) {
-        unordered_set<int> cncon;
-        for (auto friendship : friendships) {
-            unordered_map<int, int> mp;
-            bool conm = false;
-            for (int lan : languages[friendship[0] - 1]) {
-                mp[lan] = 1;
-            }
-            for (int lan : languages[friendship[1] - 1]) {
-                if (mp[lan]) {
-                    conm = true;
-                    break;
+    int minimumTeachings(int n, vector<vector<int>>& languages, vector<vector<int>>& friendships) {
+        set<int> need;
+        for(const auto& p : friendships) {
+            auto u = p[0] - 1, v = p[1] - 1;
+            bool ok = false;
+            for(const auto x : languages[u]) {
+                for(const auto y : languages[v]) {
+                    if (x == y) { ok = true; break; }
                 }
             }
-            if (!conm) {
-                cncon.insert(friendship[0] - 1);
-                cncon.insert(friendship[1] - 1);
-            }
+            if (!ok) { need.insert(u); need.insert(v); }
         }
-        int max_cnt = 0;
-        vector<int> cnt(n + 1, 0);
-        for (auto friendship : cncon) {
-            for (int lan : languages[friendship]) {
-                cnt[lan]++;
-                max_cnt = max(max_cnt, cnt[lan]);
+        
+        int ans = languages.size() + 1;
+        for(int i = 1; i <= n; ++i) {
+            int cans = 0;
+            for(auto v : need) {
+                bool found = false;
+                for(auto c : languages[v]) {
+                    if (c == i) { found = true; break; }
+                }
+                if (!found) ++cans;
             }
+            ans = min(ans, cans);
         }
-        return cncon.size() - max_cnt;
+        return ans;
     }
 };
