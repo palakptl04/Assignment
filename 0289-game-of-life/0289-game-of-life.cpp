@@ -26,7 +26,7 @@ public:
         }
     }
 
-private:
+
     int liveNeighbors(vector<vector<int>>& board, int m, int n, int i, int j) {
         int lives = 0;
         for (int x = max(i - 1, 0); x <= min(i + 1, m - 1); x++) {
