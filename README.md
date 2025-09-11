@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/palakptl04/Assignment/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/palakptl04/Assignment/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/palakptl04/Assignment/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/palakptl04/Assignment/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
