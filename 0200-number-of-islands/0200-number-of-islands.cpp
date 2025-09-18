@@ -1,42 +1,38 @@
+#include <vector>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int islands = 0;
-        int rows = grid.size();
-        int cols = grid[0].size();
+        int m = grid.size();
+        if (m == 0) return 0;
+        int n = grid[0].size();
 
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (grid[r][c] == '1') {
+        int islands = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == '1') {
                     islands++;
-                    bfs(grid, r, c, rows, cols);
+                    dfs(grid, i, j, m, n);
                 }
             }
         }
-
-        return islands;        
+        return islands;
     }
 
 private:
-    void bfs(vector<vector<char>>& grid, int r, int c, int rows, int cols) {
-        queue<pair<int, int>> q;
-        q.push({r, c});
-        grid[r][c] = '0';
+    void dfs(vector<vector<char>>& grid, int i, int j, int m, int n) {
+        // Boundary check + water check
+        if (i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == '0')
+            return;
 
-        vector<pair<int, int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+        grid[i][j] = '0'; // mark as visited (sink the land)
 
-        while (!q.empty()) {
-            auto [row, col] = q.front();
-            q.pop();
-
-            for (auto [dr, dc] : directions) {
-                int nr = row + dr;
-                int nc = col + dc;
-                if (nr >= 0 && nr < rows && nc >= 0 && nc < cols && grid[nr][nc] == '1') {
-                    q.push({nr, nc});
-                    grid[nr][nc] = '0';
-                }
-            }
-        }
+        // Explore 4 directions
+        dfs(grid, i + 1, j, m, n);
+        dfs(grid, i - 1, j, m, n);
+        dfs(grid, i, j + 1, m, n);
+        dfs(grid, i, j - 1, m, n);
     }
-};    
+};
