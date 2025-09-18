@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/palakptl04/Assignment/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/palakptl04/Assignment/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/palakptl04/Assignment/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/palakptl04/Assignment/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palakptl04/Assignment/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/palakptl04/Assignment/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/palakptl04/Assignment/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/palakptl04/Assignment/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/palakptl04/Assignment/tree/master/0119-pascals-triangle-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/palakptl04/Assignment/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Prefix Sum
