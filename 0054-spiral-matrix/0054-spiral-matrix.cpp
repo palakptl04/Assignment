@@ -1,13 +1,11 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int n = matrix[0].size() - 1;
-        int m = matrix.size() - 1;
         int top = 0;
-        int right = n;
+        int bottom = matrix.size() - 1;
         int left = 0;
-        int bottom = m;
-
+        int right= matrix[0].size() - 1;
+        
         vector<int> res;
 
         while(top <= bottom && left <= right){
