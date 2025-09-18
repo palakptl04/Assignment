@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/palakptl04/Assignment/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/palakptl04/Assignment/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/palakptl04/Assignment/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palakptl04/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/palakptl04/Assignment/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/palakptl04/Assignment/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
 ## Linked List
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Prefix Sum
 |  |
