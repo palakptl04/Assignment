@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/palakptl04/Assignment/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/palakptl04/Assignment/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/palakptl04/Assignment/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/palakptl04/Assignment/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/palakptl04/Assignment/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/palakptl04/Assignment/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/palakptl04/Assignment/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/palakptl04/Assignment/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/palakptl04/Assignment/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/palakptl04/Assignment/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/palakptl04/Assignment/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,5 +188,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/palakptl04/Assignment/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/palakptl04/Assignment/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
