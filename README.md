@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/palakptl04/Assignment/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/palakptl04/Assignment/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/palakptl04/Assignment/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palakptl04/Assignment/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/palakptl04/Assignment/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/palakptl04/Assignment/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
 ## Hash Table
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/palakptl04/Assignment/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/palakptl04/Assignment/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
 ## Union Find
