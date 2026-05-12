@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/palakptl04/Assignment/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/palakptl04/Assignment/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/palakptl04/Assignment/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/palakptl04/Assignment/tree/master/0055-jump-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/palakptl04/Assignment/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/palakptl04/Assignment/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
