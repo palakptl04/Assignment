@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/palakptl04/Assignment/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/palakptl04/Assignment/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/palakptl04/Assignment/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/palakptl04/Assignment/tree/master/0289-game-of-life) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/palakptl04/Assignment/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/palakptl04/Assignment/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/palakptl04/Assignment/tree/master/0217-contains-duplicate) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/palakptl04/Assignment/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
