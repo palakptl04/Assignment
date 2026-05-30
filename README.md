@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/palakptl04/Assignment/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/palakptl04/Assignment/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/palakptl04/Assignment/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/palakptl04/Assignment/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/palakptl04/Assignment/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/palakptl04/Assignment/tree/master/0066-plus-one) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/palakptl04/Assignment/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palakptl04/Assignment/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/palakptl04/Assignment/tree/master/0191-number-of-1-bits) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/palakptl04/Assignment/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/palakptl04/Assignment/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/palakptl04/Assignment/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/palakptl04/Assignment/tree/master/0118-pascals-triangle) |
