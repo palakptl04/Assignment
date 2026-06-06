@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/palakptl04/Assignment/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/palakptl04/Assignment/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/palakptl04/Assignment/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/palakptl04/Assignment/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/palakptl04/Assignment/tree/master/0145-binary-tree-postorder-traversal) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/palakptl04/Assignment/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/palakptl04/Assignment/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/palakptl04/Assignment/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/palakptl04/Assignment/tree/master/0125-valid-palindrome) |
 ## String Matching
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/palakptl04/Assignment/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/palakptl04/Assignment/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/palakptl04/Assignment/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/palakptl04/Assignment/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/palakptl04/Assignment/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/palakptl04/Assignment/tree/master/0055-jump-game) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/palakptl04/Assignment/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/palakptl04/Assignment/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/palakptl04/Assignment/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/palakptl04/Assignment/tree/master/0070-climbing-stairs) |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/palakptl04/Assignment/tree/master/0200-number-of-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/palakptl04/Assignment/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
