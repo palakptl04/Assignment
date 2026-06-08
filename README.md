@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/palakptl04/Assignment/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/palakptl04/Assignment/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
+| [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/palakptl04/Assignment/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/palakptl04/Assignment/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/palakptl04/Assignment/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/palakptl04/Assignment/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
@@ -238,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palakptl04/Assignment/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
