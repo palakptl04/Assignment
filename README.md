@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/palakptl04/Assignment/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/palakptl04/Assignment/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/palakptl04/Assignment/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/palakptl04/Assignment/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/palakptl04/Assignment/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/palakptl04/Assignment/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/palakptl04/Assignment/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/palakptl04/Assignment/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/palakptl04/Assignment/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/palakptl04/Assignment/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/palakptl04/Assignment/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
