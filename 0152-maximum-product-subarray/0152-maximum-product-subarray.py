@@ -1,12 +1,21 @@
 class Solution:
-    def maxProduct(self, nums: List[int]) -> int:
-        curMax, curMin = 1, 1
-        res = nums[0]
-        
-        for n in nums:
-            vals = (n, n * curMax, n * curMin)
-            curMax, curMin = max(vals), min(vals)
-			
-            res = max(res, curMax)
-            
-        return res
+    def maxProduct(self, nums: list[int]) -> int:
+        maxi = float('-inf')
+        prod = 1
+
+        # Forward pass
+        for num in nums:
+            prod *= num
+            maxi = max(prod, maxi)
+            if prod == 0:
+                prod = 1
+
+        prod = 1
+        # Backward pass
+        for num in reversed(nums):
+            prod *= num
+            maxi = max(prod, maxi)
+            if prod == 0:
+                prod = 1
+
+        return maxi
