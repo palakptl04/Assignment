@@ -1,32 +1,34 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        mp = [0] * 128
-
+        if len(s) < len(t):
+            return ""
+        
+        char_count = defaultdict(int)
         for ch in t:
-            mp[ord(ch)] += 1
+            char_count[ch] += 1
+        
+        target_chars_remaining = len(t)
+        min_window = (0, float("inf"))
+        start_index = 0
 
-        counter = len(t)
-        begin = 0
-        end = 0
-        d = float('inf')
-        head = 0
+        for end_index, ch in enumerate(s):
+            if char_count[ch] > 0:
+                target_chars_remaining -= 1
+            char_count[ch] -= 1
 
-        while end < len(s):
-            if mp[ord(s[end])] > 0:
-                counter -= 1
-
-            mp[ord(s[end])] -= 1
-            end += 1
-
-            while counter == 0:
-                if end - begin < d:
-                    d = end - begin
-                    head = begin
-
-                if mp[ord(s[begin])] == 0:
-                    counter += 1
-
-                mp[ord(s[begin])] += 1
-                begin += 1
-
-        return "" if d == float('inf') else s[head:head + d]
+            if target_chars_remaining == 0:
+                while True:
+                    char_at_start = s[start_index]
+                    if char_count[char_at_start] == 0:
+                        break
+                    char_count[char_at_start] += 1
+                    start_index += 1
+                
+                if end_index - start_index < min_window[1] - min_window[0]:
+                    min_window = (start_index, end_index)
+                
+                char_count[s[start_index]] += 1
+                target_chars_remaining += 1
+                start_index += 1
+        
+        return "" if min_window[1] > len(s) else s[min_window[0]:min_window[1]+1]
