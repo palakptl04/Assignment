@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/palakptl04/Assignment/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/palakptl04/Assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/palakptl04/Assignment/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/palakptl04/Assignment/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/palakptl04/Assignment/tree/master/0647-palindromic-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palakptl04/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/palakptl04/Assignment/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/palakptl04/Assignment/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/palakptl04/Assignment/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
 | ------- |
