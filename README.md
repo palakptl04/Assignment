@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/palakptl04/Assignment/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/palakptl04/Assignment/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/palakptl04/Assignment/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/palakptl04/Assignment/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/palakptl04/Assignment/tree/master/0647-palindromic-substrings) |
 ## Stack
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/palakptl04/Assignment/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/palakptl04/Assignment/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/palakptl04/Assignment/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/palakptl04/Assignment/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/palakptl04/Assignment/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/palakptl04/Assignment/tree/master/0647-palindromic-substrings) |
 ## String Matching
